@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Daniilkan/Daniilkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Daniil! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a backend developer, beginner in ML
+
+
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,python,cpp)](https://skillicons.dev)
+
+
+## Some of my activities right now
+🧠 I'm currently doing Pandas data analysing course on Kaggle
+
