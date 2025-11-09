@@ -7,7 +7,7 @@ I'm a backend developer, beginner in ML
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,python,cpp,docker,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,python,cpp,docker,postgres,bash)](https://skillicons.dev)
 
 
 ## Some of my activities right now
